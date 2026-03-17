@@ -1,0 +1,5 @@
+{
+  "name": "Conversor de Extrato PDF",
+  "description": "Transforme extratos bancários PDF em planilhas Excel formatadas automaticamente usando IA.",
+  "requestFramePermissions": []
+}
